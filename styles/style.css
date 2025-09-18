@@ -1,3 +1,12 @@
 .gold{
     background: #B68C5A;
 }
+.caro {
+    height: 500px;
+    background-color: rgba(17, 17, 17, 0.8);
+    background-image: url(../images/banner.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: overlay;
+}
